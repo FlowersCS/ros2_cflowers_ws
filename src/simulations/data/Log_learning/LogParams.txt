@@ -1,0 +1,3 @@
+Simulation parameters:
+----------------------
+INITIAL POSITION = (-0.4, -0.4, 45.0)

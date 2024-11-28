@@ -1,0 +1,21 @@
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Build and install directories
+build/
+install/
+
+# Logs and temporary files
+log/
+
+# VS Code or IDE configuration
+.vscode/
+.idea/
+
+# ROS 2 workspace-specific files
+*.db
+*.bak
+*.swp
+
+test/
